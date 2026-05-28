@@ -18,3 +18,5 @@ I'm teaching myself software development with the goal of studying Software Engi
 → Weather App (JavaScript + API)
 → Dashboard (React)
 → Mini SaaS (Node.js + auth)
+
+-> No A.I <-
