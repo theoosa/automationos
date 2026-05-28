@@ -1,0 +1,50 @@
+h1{
+    color : rgb(0, 0, 0);
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    color: rgb(73, 69, 69);
+    font-size: 30px;
+}
+
+.pinto{
+    color: rgb(73, 69, 69);
+    font-size: 30px;
+}
+
+.sahur{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+*{
+    margin: 0;
+}
+
+.tung{
+    background-color: rgb(222, 222, 222);
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    background-color: rgb(110, 110, 108);
+    border-radius: 16px;
+    color:white;
+    border: none;
+    padding: 10px;
+    font-size: 20px;
+}
